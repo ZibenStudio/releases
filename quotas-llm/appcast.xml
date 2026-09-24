@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Quotas LLM</title>
+    <item>
+      <title>1.1</title>
+      <pubDate>Thu, 24 Sep 2026 09:12:38 +0200</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ZibenStudio/releases/releases/download/quotas-llm-v1.1/QuotasLLM.dmg" sparkle:edSignature="zcEUlHGq9oWwxrC9yijpHBrPlVdcwtElU2AbKO28gFBy+9gGpWxxZ8kt3duvQD5oX5F9iYCBxQbVRYzosUE2BA==" length="1769897" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>

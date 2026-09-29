@@ -3,12 +3,12 @@
   <channel>
     <title>Quotas LLM</title>
     <item>
-      <title>1.4</title>
-      <pubDate>Sun, 27 Sep 2026 12:33:20 +0000</pubDate>
-      <sparkle:version>30</sparkle:version>
-      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <title>1.5</title>
+      <pubDate>Tue, 29 Sep 2026 08:42:47 +0000</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/ZibenStudio/releases/releases/download/quotas-llm-v1.4/QuotasLLM.dmg" sparkle:edSignature="mGEO1mEQWbEr6lenB41b0Pc2ZEI9s2A0W9t0g8DZzYtbG5y0ytMb5i5L+lyO456CaqrII71bTouW5PuahUTvAg==" length="3155902" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ZibenStudio/releases/releases/download/quotas-llm-v1.5/QuotasLLM.dmg" sparkle:edSignature="qKe4m+Sex9/D+eNIQUJ8X72QHh4CFijuiC9avNXtS5osOEWxiWtuSjnpoeiQukPqmj+pH2v9JeD3CBNGoWgkCg==" length="3215732" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
